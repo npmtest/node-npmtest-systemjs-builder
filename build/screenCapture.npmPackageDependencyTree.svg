@@ -31,7 +31,7 @@
 <tspan x="10" y="458">  │ │   ├── os-homedir@1.0.2 </tspan>
 <tspan x="10" y="474">  │ │   └── os-tmpdir@1.0.2 </tspan>
 <tspan x="10" y="490">  │ ├─┬ babel-runtime@6.23.0 </tspan>
-<tspan x="10" y="506">  │ │ └── regenerator-runtime@0.10.3 </tspan>
+<tspan x="10" y="506">  │ │ └── regenerator-runtime@0.10.4 </tspan>
 <tspan x="10" y="522">  │ ├── babel-template@6.24.1 </tspan>
 <tspan x="10" y="538">  │ ├─┬ babel-traverse@6.24.1 </tspan>
 <tspan x="10" y="554">  │ │ ├── globals@9.17.0 </tspan>
@@ -41,7 +41,7 @@
 <tspan x="10" y="618">  │ │ └── to-fast-properties@1.0.2 </tspan>
 <tspan x="10" y="634">  │ ├── babylon@6.17.0 </tspan>
 <tspan x="10" y="650">  │ ├── convert-source-map@1.5.0 </tspan>
-<tspan x="10" y="666">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="666">  │ ├─┬ debug@2.6.5 </tspan>
 <tspan x="10" y="682">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="698">  │ ├── json5@0.5.1 </tspan>
 <tspan x="10" y="714">  │ ├── lodash@4.17.4 </tspan>
